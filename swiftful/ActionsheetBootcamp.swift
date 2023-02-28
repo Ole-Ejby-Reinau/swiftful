@@ -1,7 +1,5 @@
 import SwiftUI
-
-/* Ole was here */
-
+// EBK was here
 struct ActionsheetBootcamp: View
 {    
     @State var showActionSheet: Bool = false

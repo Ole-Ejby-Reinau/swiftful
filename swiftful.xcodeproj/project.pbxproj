@@ -80,6 +80,7 @@
 		11DF0CF929239703009E0D26 /* PickerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11DF0CF829239703009E0D26 /* PickerBootcamp.swift */; };
 		11DF0CFB2923A02C009E0D26 /* ColorPickerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11DF0CFA2923A02C009E0D26 /* ColorPickerBootcamp.swift */; };
 		11DF0CFD2923A487009E0D26 /* DatePickerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11DF0CFC2923A487009E0D26 /* DatePickerBootcamp.swift */; };
+		11EF9F672995215C00EE2B71 /* Autocomplete.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11EF9F662995215C00EE2B71 /* Autocomplete.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -176,6 +177,7 @@
 		11DF0CF829239703009E0D26 /* PickerBootcamp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PickerBootcamp.swift; sourceTree = "<group>"; };
 		11DF0CFA2923A02C009E0D26 /* ColorPickerBootcamp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColorPickerBootcamp.swift; sourceTree = "<group>"; };
 		11DF0CFC2923A487009E0D26 /* DatePickerBootcamp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DatePickerBootcamp.swift; sourceTree = "<group>"; };
+		11EF9F662995215C00EE2B71 /* Autocomplete.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Autocomplete.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -296,6 +298,7 @@
 				118E8D652938F43300BCD43A /* WrapUIKit.swift */,
 				1182CC6A285B48E60064B8B3 /* Assets.xcassets */,
 				118EA2202950A7E1009B34DC /* SwiftUIExamples.swift */,
+				11EF9F662995215C00EE2B71 /* Autocomplete.swift */,
 			);
 			path = swiftful;
 			sourceTree = "<group>";
@@ -519,6 +522,7 @@
 				118E8D582938AAD900BCD43A /* SwiftUIView.swift in Sources */,
 				11AF416B29254CB200622DA3 /* TapGestureBootcamp.swift in Sources */,
 				11AF415D2923EBED00622DA3 /* StepperBootcamp.swift in Sources */,
+				11EF9F672995215C00EE2B71 /* Autocomplete.swift in Sources */,
 				11DF0CBF2920E165009E0D26 /* PaddingAndSpacerBootcamp.swift in Sources */,
 				118EA2212950A7E1009B34DC /* SwiftUIExamples.swift in Sources */,
 				11DF0CD329214FCF009E0D26 /* ExtractSubviewsBootcamp.swift in Sources */,
